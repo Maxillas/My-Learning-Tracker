@@ -21,6 +21,9 @@ A complete log of my development skills, learning, resources, highlights, intere
 |**GitLab CI/CD**                  | ![done][done]     | 			| 		   |                |		|
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
 |**Bash**                          | ![done][done]     | 		        | 		   |                |		|
+|**Matlab**                        | ![done][done]     | 		        | 		   |                |		|
+|**Markdown**                      | ![done][done]     | ![done][done]		| 		   |                |		|
+|**LATEX**                         | ![done][done]     | 			| 		   |                |		|
 
 ----
 
