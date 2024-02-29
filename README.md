@@ -1,8 +1,6 @@
-# My Learning Tracker [![Tweet](https://www.google.com/)](https://www.google.com/)
+# My Learning Tracker
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
-
-[Portfolio](https://www.google.com/ "sykhoudeib.com") || [Blog](https://www.google.com/ "My web dev articles")
+A complete log of my development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
 ----
 
@@ -15,16 +13,15 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**C++**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Python**                        | ![done][done]     | ![done][done]          |                  |
 |**QT**                            | ![done][done]     | ![done][done]          | ![done][done]    |
+|**QML				   | ![done][done]     | 			| 		   |
 |**SQL**                           | ![done][done]     | 		        | 		   |
 |**CMake**                         | ![done][done]     | 		        | 		   |
-
 |**Linux**                         | ![done][done]     | ![done][done]          | ![done][done]	   |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitLab CI/CD**                  | ![done][done]     | 			| 		   |
 |**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Bash**                          | ![done][done]     | 		        | 		   |
-
 
 ----
 
@@ -38,44 +35,42 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Oct 2222   | [Harvard CS50]                                                  | Harvard University                          |
-| ![Completed][Completed]     | Dec 2022   | [Steve Kinney]                              	             |                                             |
+| ![In Progress][In Progress] | Mar 2024   | [SQL and Data Base]		                             |Programming Higher School of Sergei Bobrovsky|
+| ![In Progress][In Progress] | Mar 2024   | [Linux introduction]		                             |Bioinformatics Institute	                   |
+| ![Completed][Completed]     | Feb 2024   | [Programming in C++ part 1]	                             |Computer Science Center 	                   |
+| ![Completed][Completed]     | Jan 2024   | [Clean Code]  					             |Programming Higher School of Sergei Bobrovsky|
+| ![Completed][Completed]     | Jan 2024   | [Git introduction]					             |Yandex Practicum				   |
+| ![Completed][Completed]     | Feb 2023   | [Algorithm and Data Structure part 1]                           |Programming Higher School of Sergei Bobrovsky|
+| ![Completed][Completed]     | May 2023   | [Upper level software development on C++]                       |Prosoft Developer School	                   |
+| ![Completed][Completed]     | Sep 2022   | [Programming in C++ introduction]                               |Yandex Academy		                   |
+| ![Completed][Completed]     | Mar 2022   | ["Generation Python": a course for beginners]                   |BEEGEEK			                   |
 
 
 [//]: # (Reference links to courses)
+[SQL and Data Base]: https://vk.com/lambda_brain
+[Linux introduction]: https://stepik.org/course/73/info
+[Programming in C++ part 1]: https://stepik.org/cert/2353024
+[Clean Code]: https://vk.com/lambda_brain 
+[Git introduction]: https://practicum.yandex.ru/profile/git-basics/
+[Algorithmm and Data Structure]: https://vk.com/lambda_brain
+[Upper level software development on C++]: https://school.prosoftsystems.ru/
+[Programming in C++ introduction]: https://stepik.org/cert/2068693 
+["Generation Python": a course for beginners]: https://stepik.org/cert/1383071
 
-[Harvard CS50]: https://youtu.be/8mAITcNt710?si=6BavtRpgNdc2HnZS
-[React and TypeScript]: https://frontendmasters.com/courses/react-typescript/
+### Books
 
-[//]: # (Reference links to tutors)
+| Book title						    |            Author            |   Date  |
+|:----------------------------------------------------------|:----------------------------:|:-------:|
+| Освой самостоятельно C++ за 24 часа.  		    | Джесс Либерти		   |Jun 2023 |
 
-[Steve Kinney]: https://twitter.com/stevekinney
-[Mike North]: https://twitter.com/michaellnorth
-
-### Paths
-
-| Paths with multiple resources                             |            Author            |
-|:----------------------------------------------------------|:----------------------------:|
-| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
 
 [//]: # (Reference links to paths)
 
 [33 concepts every JavaScript developer should know]: https://github.com/leonardomso/33-js-concepts
-[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
-[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
-[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
-[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
 
 [//]: # (Reference links to authors)
 [Leonardo Maldonado]: https://github.com/leonardomso
-[ReactDOM]: https://reactdom.com
-[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
-[P1xt]: https://github.com/P1xt
-[Shovan Chatterjee]: https://github.com/shovanch
+
 
 ----
 
@@ -83,54 +78,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 I'm currently interested in/excited about:
 
-+ Typescript
-+ Testing
-+ Node and the MERN stack
-+ .dotfiles
++ C++
++ QT
++ GUI for desktop 
++ GUI for embedded system 
++ Electronics and automatization
 
 ----
-
-## Web Development Checklist
-
-This is a list of basic objectives to meet on the road to mastering web development.
-
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
-
-
-* [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [x] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
-* [x] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
-* [x] Participate in a hackathon
-* [x] Deploy a project
-* [ ] Ship your project to a store
-* [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
-
-----
-
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star :)
-
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
-
-----
-
-### Acknowledgments
-
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
-
-### License
-
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
