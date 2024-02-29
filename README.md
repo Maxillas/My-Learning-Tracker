@@ -8,20 +8,19 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-|               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**C++**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Python**                        | ![done][done]     | ![done][done]          |                  |
-|**QT**                            | ![done][done]     | ![done][done]          | ![done][done]    |
-|**QML				   | ![done][done]     | 			| 		   |
-|**SQL**                           | ![done][done]     | 		        | 		   |
-|**CMake**                         | ![done][done]     | 		        | 		   |
-|**Linux**                         | ![done][done]     | ![done][done]          | ![done][done]	   |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitLab CI/CD**                  | ![done][done]     | 			| 		   |
-|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Bash**                          | ![done][done]     | 		        | 		   |
+|               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular Use | 4<br>Can Teach | 5<br>Guru |
+|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|:--------------:|:---------:|
+|**C++**                           | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
+|**Python**                        | ![done][done]     | ![done][done]          |                  |                |		|
+|**QT**                            | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
+|**QML**			   | ![done][done]     | 			| 		   |                |		|
+|**SQL**                           | ![done][done]     | 		        | 		   |                |		|
+|**CMake**                         | ![done][done]     | 		        | 		   |                |		|
+|**Linux**                         | ![done][done]     | ![done][done]          | ![done][done]	   |                |		|
+|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
+|**GitLab CI/CD**                  | ![done][done]     | 			| 		   |                |		|
+|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
+|**Bash**                          | ![done][done]     | 		        | 		   |                |		|
 
 ----
 
@@ -40,7 +39,8 @@ A complete log of my development skills, learning, resources, highlights, intere
 | ![Completed][Completed]     | Feb 2024   | [Programming in C++ part 1]	                             |Computer Science Center 	                   |
 | ![Completed][Completed]     | Jan 2024   | [Clean Code]  					             |Programming Higher School of Sergei Bobrovsky|
 | ![Completed][Completed]     | Jan 2024   | [Git introduction]					             |Yandex Practicum				   |
-| ![Completed][Completed]     | Feb 2023   | [Algorithm and Data Structure part 1]                           |Programming Higher School of Sergei Bobrovsky|
+| ![Completed][Completed]     | Dec 2023   | [Algorithm and Data Structure part 1]                           |Programming Higher School of Sergei Bobrovsky|
+| ![Completed][Completed]     | Dec 2023   | [Численные методы. Базовый курс]     	                     |НОЦ ВКО "Алмаз Антей"			   |
 | ![Completed][Completed]     | May 2023   | [Upper level software development on C++]                       |Prosoft Developer School	                   |
 | ![Completed][Completed]     | Sep 2022   | [Programming in C++ introduction]                               |Yandex Academy		                   |
 | ![Completed][Completed]     | Mar 2022   | ["Generation Python": a course for beginners]                   |BEEGEEK			                   |
@@ -52,7 +52,8 @@ A complete log of my development skills, learning, resources, highlights, intere
 [Programming in C++ part 1]: https://stepik.org/cert/2353024
 [Clean Code]: https://vk.com/lambda_brain 
 [Git introduction]: https://practicum.yandex.ru/profile/git-basics/
-[Algorithmm and Data Structure]: https://vk.com/lambda_brain
+[Algorithmm and Data Structure part 1]: https://vk.com/lambda_brain
+[Численные методы. Базовый курс]: https://nocvko.ru/
 [Upper level software development on C++]: https://school.prosoftsystems.ru/
 [Programming in C++ introduction]: https://stepik.org/cert/2068693 
 ["Generation Python": a course for beginners]: https://stepik.org/cert/1383071
