@@ -37,8 +37,9 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress][In Progress] | Apr 2024   | [Data Base Introduction]		                             |Computer Science Center 	  		   |
 | ![In Progress][In Progress] | Mar 2024   | [SQL and Data Base]		                             |Programming Higher School of Sergei Bobrovsky|
-| ![In Progress][In Progress] | Mar 2024   | [Linux introduction]		                             |Bioinformatics Institute	                   |
+| ![Completed][Completed]     | Mar 2024   | [Linux introduction]		                             |Bioinformatics Institute	                   |
 | ![Completed][Completed]     | Feb 2024   | [Programming in C++ part 1]	                             |Computer Science Center 	                   |
 | ![Completed][Completed]     | Jan 2024   | [Clean Code]  					             |Programming Higher School of Sergei Bobrovsky|
 | ![Completed][Completed]     | Jan 2024   | [Git introduction]					             |Yandex Practicum				   |
@@ -50,12 +51,13 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 
 [//]: # (Reference links to courses)
+[Data Base Introduction]: https://stepik.org/course/551/syllabus
 [SQL and Data Base]: https://vk.com/lambda_brain
-[Linux introduction]: https://stepik.org/course/73/info
+[Linux introduction]: https://stepik.org/cert/2382807
 [Programming in C++ part 1]: https://stepik.org/cert/2353024
 [Clean Code]: https://vk.com/lambda_brain 
 [Git introduction]: https://practicum.yandex.ru/profile/git-basics/
-[Algorithmm and Data Structure part 1]: https://vk.com/lambda_brain
+[Algorithm and Data Structure part 1]: https://vk.com/lambda_brain
 [Численные методы. Базовый курс]: https://nocvko.ru/
 [Upper level software development on C++]: https://school.prosoftsystems.ru/
 [Programming in C++ introduction]: https://stepik.org/cert/2068693 
