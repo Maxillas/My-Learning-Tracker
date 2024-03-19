@@ -37,8 +37,9 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Apr 2024   | [Data Base Introduction]		                             |Computer Science Center 	  		   |
-| ![In Progress][In Progress] | Mar 2024   | [SQL and Data Base]		                             |Programming Higher School of Sergei Bobrovsky|
+| ![In Progress]In Progress]  | Apr 2024   | [Introduction to computer architecture and operating system]    |Computer Science Center 	  		   |
+| ![Completed][Completed]     | Mar 2024   | [Data Base Introduction]		                             |Computer Science Center 	  		   |
+| ![Completed][Completed]     | Mar 2024   | [SQL and Data Base]		                             |Programming Higher School of Sergei Bobrovsky|
 | ![Completed][Completed]     | Mar 2024   | [Linux introduction]		                             |Bioinformatics Institute	                   |
 | ![Completed][Completed]     | Feb 2024   | [Programming in C++ part 1]	                             |Computer Science Center 	                   |
 | ![Completed][Completed]     | Jan 2024   | [Clean Code]  					             |Programming Higher School of Sergei Bobrovsky|
@@ -51,7 +52,8 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 
 [//]: # (Reference links to courses)
-[Data Base Introduction]: https://stepik.org/course/551/syllabus
+[Introduction to computer architecture and operating system]: https://stepik.org/course/253/syllabus
+[Data Base Introduction]: https://stepik.org/cert/2391454
 [SQL and Data Base]: https://vk.com/lambda_brain
 [Linux introduction]: https://stepik.org/cert/2382807
 [Programming in C++ part 1]: https://stepik.org/cert/2353024
@@ -67,6 +69,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 | Book title						    |            Author            |   Date  |
 |:----------------------------------------------------------|:----------------------------:|:-------:|
+| QT 5.10. Профессиональное программирование на C++	    | Макс Шлее			   |... 2024 |
 | Освой самостоятельно C++ за 24 часа.  		    | Джесс Либерти		   |Jun 2023 |
 
 
