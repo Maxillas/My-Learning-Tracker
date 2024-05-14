@@ -13,7 +13,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 |**C++**                           | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
 |**Python**                        | ![done][done]     | ![done][done]          |                  |                |		|
 |**QT**                            | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
-|**QML**			   | ![done][done]     | 			| 		   |                |		|
+|**QML**			   | ![done][done]     | ![done][done]		|                  |		    |		|
 |**SQL**                           | ![done][done]     | 		        | 		   |                |		|
 |**CMake**                         | ![done][done]     | 		        | 		   |                |		|
 |**Linux**                         | ![done][done]     | ![done][done]          | ![done][done]	   |                |		|
@@ -37,6 +37,8 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress]In Progress]  | May 2024   | [Programming in C++ part 2]	                             |Computer Science Center 	                   |
+| ![Completed][Completed]     | May 2024   | [Algorithm and Data Structure part 2]                           |Programming Higher School of Sergei Bobrovsky|
 | ![In Progress]In Progress]  | Apr 2024   | [Introduction to computer architecture and operating system]    |Computer Science Center 	  		   |
 | ![Completed][Completed]     | Mar 2024   | [Data Base Introduction]		                             |Computer Science Center 	  		   |
 | ![Completed][Completed]     | Mar 2024   | [SQL and Data Base]		                             |Programming Higher School of Sergei Bobrovsky|
@@ -57,9 +59,11 @@ A complete log of my development skills, learning, resources, highlights, intere
 [SQL and Data Base]: https://vk.com/lambda_brain
 [Linux introduction]: https://stepik.org/cert/2382807
 [Programming in C++ part 1]: https://stepik.org/cert/2353024
+[Programming in C++ part 1]: https://stepik.org/course/3206/info
 [Clean Code]: https://vk.com/lambda_brain 
 [Git introduction]: https://practicum.yandex.ru/profile/git-basics/
 [Algorithm and Data Structure part 1]: https://vk.com/lambda_brain
+[Algorithm and Data Structure part 2]: https://vk.com/lambda_brain
 [Численные методы. Базовый курс]: https://nocvko.ru/
 [Upper level software development on C++]: https://school.prosoftsystems.ru/
 [Programming in C++ introduction]: https://stepik.org/cert/2068693 
