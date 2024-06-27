@@ -13,7 +13,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 |**C++**                           | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
 |**Python**                        | ![done][done]     | ![done][done]          |                  |                |		|
 |**QT**                            | ![done][done]     | ![done][done]          | ![done][done]    |                |		|
-|**QML**			   | ![done][done]     | ![done][done]		|                  |		    |		|
+|**QML**			   | ![done][done]     | ![done][done]		| ![done][done]    |		    |		|
 |**SQL**                           | ![done][done]     | 		        | 		   |                |		|
 |**CMake**                         | ![done][done]     | 		        | 		   |                |		|
 |**Linux**                         | ![done][done]     | ![done][done]          | ![done][done]	   |                |		|
@@ -37,7 +37,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 |            Status           |   Year     | Course                                                          |                Tutor                        |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress]In Progress]  | May 2024   | [Programming in C++ part 2]	                             |Computer Science Center 	                   |
+| ![Completed][Completed]     | Jun 2024   | [Programming in C++ part 2]	                             |Computer Science Center 	                   |
 | ![Completed][Completed]     | Apr 2024   | [Algorithm and Data Structure part 2]                           |Programming Higher School of Sergei Bobrovsky|
 | ![In Progress]In Progress]  | Apr 2024   | [Introduction to computer architecture and operating system]    |Computer Science Center 	  		   |
 | ![Completed][Completed]     | Mar 2024   | [Data Base Introduction]		                             |Computer Science Center 	  		   |
@@ -54,6 +54,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 
 [//]: # (Reference links to courses)
+[Programming in C++ part 2]: https://stepik.org/cert/2508885
 [Introduction to computer architecture and operating system]: https://stepik.org/course/253/syllabus
 [Data Base Introduction]: https://stepik.org/cert/2391454
 [SQL and Data Base]: https://vk.com/lambda_brain
@@ -73,7 +74,8 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 | Book title						    |            Author            |   Date  |
 |:----------------------------------------------------------|:----------------------------:|:-------:|
-| QT 5.10. Профессиональное программирование на C++	    | Макс Шлее			   |... 2024 |
+| Язык программирования С++. Издание 4			    | Бьярн Страуструп 		   |... 2024 |
+| QT 5.10. Профессиональное программирование на C++	    | Макс Шлее			   |Jun 2024 |
 | Освой самостоятельно C++ за 24 часа.  		    | Джесс Либерти		   |Jun 2023 |
 
 
